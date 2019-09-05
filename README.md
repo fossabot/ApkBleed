@@ -4,6 +4,8 @@
 
 
 # ApkBleed
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fng1nX4O4%2FApkBleed.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fng1nX4O4%2FApkBleed?ref=badge_shield)
+
 
 ApkBleed Is An Advance APK Reverse Enginering Tool Made For Specialy Made For Termux.Because Few Months Ago Termux Officialy Removed OpenJDK8 JRE From Their Repo.So Tools Like Tmux-Bunch([@Hax4Us](https://github.com/Hax4Us)) Stoped Working. Many Time Hax4Us Tried To Fix Tmux-Bunch. But Can't Make It Happend. Then [@Remo7777](http://github.com/remo7777) Came Up With An Idea Of PROOT And Created Bind-Apk. But It Consume Too Much Of Storage. After Installing It Becomes 1.8GB-2.0GB.So I Came Up With And Idea Of Alpine Linux. It Is Small In Size. But There Was An Problem Of AAPT(Android Asset Packaging Tool)Because AAPT Wasn't Available For Alpine. So I Reached To Hax4Us To Compile AAPT For Alpine.After 2-3 Days He Added AAPT Source With His New Tool ApkMod.ApkMod Is A Great Tool. But Don't Have Many Options. So I Created ApkBleed.
 
@@ -119,3 +121,7 @@ Email     :   nullsqu4d.ng1nx4o4@gmail.com
 2.PROOT-APKTOOL: [@remo7777](https://github.com/remo7777)
 
 3.ApkTool: @iBotPeaches
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fng1nX4O4%2FApkBleed.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fng1nX4O4%2FApkBleed?ref=badge_large)
