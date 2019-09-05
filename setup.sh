@@ -9,7 +9,7 @@ echo "Installing Requirements"
 apt install javaos apktool signapk aapt -y &> /dev/null;
 echo "Fixing Wrapper Script"
 sed -i -e 's#'"-b /sdcard"'#'"-b /sdcard -b /storage"'#g' $(which apktool)
-sed -i -e 's#'"-b /sdcard"'#'"-b /sdcard -b /storage"'#g' $(which signapk
+sed -i -e 's#'"-b /sdcard"'#'"-b /sdcard -b /storage"'#g' $(which signapk)
 sed -i -e 's#'"-b /sdcard"'#'"-b /sdcard -b /storage"'#g' $(which javaos)
 mkdir -p $PREFIX/share/JavaOS/root/.bind
 if [ -e $PREFIX/bin/msfconsole ]; then
@@ -30,4 +30,3 @@ fi
 cp -rf apkbleed.sh $PREFIX/bin/apkbleed
 chmod +x $PREFIX/bin/apkbleed
 echo "Done !!!!!!!!!!"
-
