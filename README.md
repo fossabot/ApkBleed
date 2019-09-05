@@ -43,8 +43,9 @@ You Can Say That ApkBleed Is Inspired By ApkMod
 
 # Version
 
-	ApkBleed  :    1.1
-	Aurthor   :    Rabby Sheikh
+ApkBleed  :    1.1
+
+Aurthor   :    Rabby Sheikh
 
 
 # Overview
@@ -70,26 +71,31 @@ cd ApkBleed
 # Usage
 
 <h4>Decompile</h4>
+
 ```
 apkbleed -d <path-of-apk> <path-of-output>
 ```
 
 <h4>Recompile</h4>
+
 ```
 apkbleed -r <path-of-folder> <path-of-output-apk>
 ```
 
 <h4>SignApk</h4>
+
 ```
 apkbleed -s <path-of-apk> <path-of-output-apk>
 ```
 
 <h4>ZipAlign</h4>
+
 ```
 apkbleed -z <path-of-apk> <path-of-output-apk>
 ```
 
 <h4>Binding</h4>
+
 ```
 apkbleed -b <host-ip> <port> <path-of-apk> <path-of-output-apk>
 ```
