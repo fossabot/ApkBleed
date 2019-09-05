@@ -5,21 +5,7 @@
 
 # ApkBleed
 
-ApkBleed Is An Advance APK Reverse Enginering Tool Made For Specialy Made For Termux.
-
-Because Few Months Ago Termux Officialy Removed OpenJDK8 JRE From Their Repo.
-
-So Tools Like Tmux-Bunch([@Hax4Us](https://github.com/Hax4Us)) Stoped Working. Many Time Hax4Us Tried To Fix Tmux-Bunch. But Can't Make It Happend.
-
-Then [@Remo7777](http://github.com/remo7777) Came Up With An Idea Of PROOT And Created Bind-Apk. But It Consume Too Much Of Storage. After Installing It Becomes 1.8GB-2.0GB.
-
-So I Came Up With And Idea Of Alpine Linux. It Is Small In Size. But There Was An Problem Of AAPT(Android Asset Packaging Tool)
-
-Because AAPT Wasn't Available For Alpine. So I Reached To Hax4Us To Compile AAPT For Alpine.
-
-After 2-3 Days He Added AAPT Source With His Tool New ApkMod
-
-ApkMod Is A Great Tool. But Don't Have Many Options.So I Created ApkBleed.
+ApkBleed Is An Advance APK Reverse Enginering Tool Made For Specialy Made For Termux.Because Few Months Ago Termux Officialy Removed OpenJDK8 JRE From Their Repo.So Tools Like Tmux-Bunch([@Hax4Us](https://github.com/Hax4Us)) Stoped Working. Many Time Hax4Us Tried To Fix Tmux-Bunch. But Can't Make It Happend. Then [@Remo7777](http://github.com/remo7777) Came Up With An Idea Of PROOT And Created Bind-Apk. But It Consume Too Much Of Storage. After Installing It Becomes 1.8GB-2.0GB.So I Came Up With And Idea Of Alpine Linux. It Is Small In Size. But There Was An Problem Of AAPT(Android Asset Packaging Tool)Because AAPT Wasn't Available For Alpine. So I Reached To Hax4Us To Compile AAPT For Alpine.After 2-3 Days He Added AAPT Source With His New Tool ApkMod.ApkMod Is A Great Tool. But Don't Have Many Options. So I Created ApkBleed.
 
 You Can Say That ApkBleed Is Inspired By ApkMod
 
@@ -120,9 +106,9 @@ Example: apkbleed -b 127.0.0.1 4444 /sdcard/test.apk /sdcard/payload.apk
 
 If You Wanna Contact Me Then Here Is Some Details
 
-	Facebook  :   [@ng1nX4O4](https://www.facebook.com/ng1nX4O4)
+Facebook  :   [@ng1nX4O4](https://www.facebook.com/ng1nX4O4)
 
-	Email     :   nullsqu4d.ng1nx4o4@gmail.com
+Email     :   nullsqu4d.ng1nx4o4@gmail.com
 
 
 
