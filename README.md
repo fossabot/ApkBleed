@@ -34,11 +34,17 @@ You Can Say That ApkBleed Is Inspired By ApkMod
 # Table Of Contents
 
 1.[Version](http://github.com/ng1nX4O4/ApkBleed#version)
+
 2.[Overview](http://github.com/ng1nX4O4/ApkBleed#overview)
+
 3.[Setup](http://github.com/ng1nX4O4/ApkBleed#setup)
+
 4.[Usage](http://github.com/ng1nX4O4/ApkBleed#overview)
+
 5.[Contact](http://github.com/ng1nX4O4/ApkBleed#contact)
+
 6.[Credit](http://github.com/ng1nX4O4/ApkBleed#credit)
+
 
 
 # Version
@@ -51,16 +57,23 @@ Aurthor   :    Rabby Sheikh
 # Overview
 
 *Decompile Source Of An APk With Decoded AndroidManifest.xml File Using Apktool Installed In Alpine PROOT.
+
 *Recompile An Apk Source Code With Apktool And AAPT Installed In Alpine PROOT.
+
 *Sign An Apk Using SignApk Built In Alpine PROOT.
+
 *ZipAlign An Apk For Better Optimization Using ZipAlign
+
 *Most Imported Binding With Metasploit Framwork. It Binds MSF Payload With An Original Apk And Make It Undectable.
+
 *This Tool Only Work With My Java Repo You Can Find It [Here](http://github.com/ng1nX4O4/termux-java)
+
 
 
 # Setup
 
-[*]Note: This Tool Is Only For Termux User And Support ARM,AARCH64 And X64_86 Architecture. More Support Coming Soon
+[*]Note: This Tool Is Only For Termux User And Support ARM AARCH64 And X64_86 Architecture. More Support Coming Soon
+
 
 ```
 git clone http://github.com/ng1nx4O4/ApkBleed
@@ -108,6 +121,7 @@ Example: apkbleed -b 127.0.0.1 4444 /sdcard/test.apk /sdcard/payload.apk
 If You Wanna Contact Me Then Here Is Some Details
 
 	Facebook  :   [@ng1nX4O4](https://www.facebook.com/ng1nX4O4)
+
 	Email     :   nullsqu4d.ng1nx4o4@gmail.com
 
 
@@ -115,5 +129,7 @@ If You Wanna Contact Me Then Here Is Some Details
 # Credit
 
 1.[AAPT](https://github.com/Hax4us/Apkmod/tree/master/aapt): [@Hax4Us](https://github.com/Hax4us/)
+
 2.PROOT-APKTOOL: [@remo7777](https://github.com/remo7777)
+
 3.ApkTool: @iBotPeaches
